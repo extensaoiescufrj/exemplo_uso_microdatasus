@@ -4,7 +4,7 @@ Software livre R e a importância do pacote “microdatasus” para os serviços
 
 Título: Software livre R e a importância do pacote “microdatasus” para os serviços de vigilância em saúde
 
-Autores: Thaynara Alvarenga Trinxet¹, Wellington da Silva Gonçalves¹, Karina da Silva Assis Côrrea¹, Natália Santana Paiva², Antonio José Leal Costa², Mônica Miguel Brochini³ Ana Paula Razal Dalvi³
+Autores: Thaynara Alvarenga Trinxet¹, Wellington da Silva Gonçalves¹, Karina da Silva Assis Côrrea¹, Natália Santana Paiva², Antonio José Leal Costa², Monica Miguel Brochini³ Ana Paula Razal Dalvi³
 
 ¹ Alunas(os) do Curso de Graduação em Saúde Coletiva do Instituto de Estudos em Saúde Coletiva UFRJ
 ² Professor(a) Instituto de Estudos em Saúde Coletiva UFRJ
