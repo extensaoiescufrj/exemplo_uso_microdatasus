@@ -16,8 +16,9 @@ O software livre e gratuito R foi criado por Robert Gentleman e Ross Ihaka na d�
 - Disponibilizamos script R com exemplo do uso do pacote microdatasus além de rotinas de autoria própria.
 
 Bibliografia:
-SALDANHA, Raphael de Freitas; BASTOS, Ronaldo Rocha; BARCELLOS, Christovam. Microdatasus: pacote para download e pré-processamento de microdados do Departamento de Informática do SUS (DATASUS). Cad. Saúde Pública, Rio de Janeiro , v. 35, n. 9, e00032419, 2019 . 
 
-The R Foundation. What is R?. Disponível em: <https://www.r-project.org/about.html>. Acesso em: 12 de out. 2021.
+1. SALDANHA, Raphael de Freitas; BASTOS, Ronaldo Rocha; BARCELLOS, Christovam. Microdatasus: pacote para download e pré-processamento de microdados do Departamento de Informática do SUS (DATASUS). Cad. Saúde Pública, Rio de Janeiro , v. 35, n. 9, e00032419, 2019 . 
 
-Aria, M.; Cuccurullo, C. “bibliometrix: An R-tool for comprehensive science mapping analysis.” Journal of Informetrics, 11(4), 959-975, 2017. Disponível em: <https://doi.org/10.1016/j.joi.2017.08.007>. Acesso em: 12 de out. 2021.
+2. The R Foundation. What is R?. Disponível em: <https://www.r-project.org/about.html>. Acesso em: 12 de out. 2021.
+
+3. Aria, M.; Cuccurullo, C. “bibliometrix: An R-tool for comprehensive science mapping analysis.” Journal of Informetrics, 11(4), 959-975, 2017. Disponível em: <https://doi.org/10.1016/j.joi.2017.08.007>. Acesso em: 12 de out. 2021.
